@@ -12,7 +12,7 @@ export default function Home() {
     }
   };
   const resetCount = () => setCount(0);
-
+// SENTRY_AUTH_TOKEN=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
   return (
     <main>
       <h1>Hello world</h1>
